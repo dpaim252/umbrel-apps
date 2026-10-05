@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: dpaim252-mkvtoolnix
+name: MKVToolNix
+tagline: Juntar, extrair e editar faixas de arquivos MKV
+icon: https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/mkvtoolnix-icon.png
+category: media
+version: "1.0.0"
+port: 5800
+description: >-
+  MKVToolNix com interface web (imagem jlesage/mkvtoolnix).
+  A pasta Downloads do Umbrel aparece como /storage.
+developer: Moritz Bunkus
+website: https://mkvtoolnix.download
+submitter: Doyon
+submission: https://github.com/jlesage/docker-mkvtoolnix
+repo: https://github.com/jlesage/docker-mkvtoolnix
+support: https://github.com/jlesage/docker-mkvtoolnix/issues
+gallery: []
+releaseNotes: ""
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
