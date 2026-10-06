@@ -1,0 +1,23 @@
+manifestVersion: 1
+id: dpaim252-jdownloader
+name: JDownloader 2
+tagline: Gerenciador de downloads para links diretos
+icon: https://raw.githubusercontent.com/jlesage/docker-templates/master/jlesage/images/jdownloader-2-icon.png
+category: networking
+version: "1.0.0"
+port: 5801
+description: >-
+  JDownloader 2 com interface web (imagem jlesage/jdownloader-2).
+  Os downloads vão para a pasta Downloads do Umbrel (/output).
+developer: AppWork GmbH
+website: https://jdownloader.org
+submitter: Doyon
+submission: https://github.com/jlesage/docker-jdownloader-2
+repo: https://github.com/jlesage/docker-jdownloader-2
+support: https://github.com/jlesage/docker-jdownloader-2/issues
+gallery: []
+releaseNotes: ""
+dependencies: []
+path: ""
+defaultUsername: ""
+defaultPassword: ""
